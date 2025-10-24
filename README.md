@@ -34,7 +34,6 @@ These are some certifications I have achieved:
 - ** Certified Ethical Hacker (CEH)  ** – EC COUNCIL
 
 
-*(You can also upload your certificate PDFs in the `Certifications` folder for reference.)*
 
 ---
 
