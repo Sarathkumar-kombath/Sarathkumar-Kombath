@@ -10,18 +10,18 @@ Welcome to my Cyber Security Portfolio. This repository showcases my **projects*
 Here are some of the projects I have worked on:
 
 1. **Project Name 1**  
-   TRY HACKME ROOMS
+   TRY HACKME Rooms
    Folder: https://tryhackme.com/p/yeskeybirikkulam1996?tab=completed-rooms
 
 2. **letsdefend**  
-   Description: Introduction to Security+
+   Introduction to Security+
    https://app.letsdefend.io/homepage
     
 
-3.**labex**  
-   Description: Linux basics
+3. **labex**  
+   Linux basics
    https://labex.io/users/sarath-narayanan-33249772
-*(Add more projects as needed)*
+
 
 ---
 
@@ -37,7 +37,7 @@ These are some certifications I have achieved:
 
 ---
 
-## Contact
+## Contact 
 
 - LinkedIn:http://linkedin.com/in/sarath-narayanan-78414a171
 - Email: sarathkumark096@gmail.com
