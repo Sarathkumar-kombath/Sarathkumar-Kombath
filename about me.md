@@ -9,7 +9,7 @@ Welcome to my Cyber Security Portfolio. This repository showcases my **projects*
 
 Here are some of the projects I have worked on:
 
-1. **Project Name 1**  
+1. **TRYHACK ME**  
    TRY HACKME Rooms
    Folder: https://tryhackme.com/p/yeskeybirikkulam1996?tab=completed-rooms
 
